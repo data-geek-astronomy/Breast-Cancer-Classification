@@ -31,3 +31,23 @@ Ensure you have Python installed on your system. The code is tested on Python 3.
 ### Installation
 
 1. Clone this repository:
+2. Install required packages:
+
+### Usage
+
+1. Place your dataset in the appropriate format as described in `data_preprocessing.py`.
+2. Run the preprocessing script:
+
+3. Train the model:
+4. Evaluate the model's performance:
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+- The dataset used for this project is for Invasive Ductal Carcinoma (IDC), the most common form of breast cancer.
+- Thanks to the TensorFlow and Keras communities for providing the tools and resources.
+
