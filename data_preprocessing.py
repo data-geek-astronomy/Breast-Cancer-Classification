@@ -7,6 +7,7 @@ import tensorflow as tf
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
+# path_to_dataset=https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
 # Configuration
 dataset_path = 'path_to_dataset'  # Replace with actual path
 patch_size = 50  # size of the image patches (50x50 pixels)
